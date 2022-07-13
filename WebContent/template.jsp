@@ -18,8 +18,7 @@
 	height:50px;
 }
 #left{
-	width:100px;
-	height:100px;
+	width:150px;
 }
 header center a{
 	margin: 20px;
@@ -29,6 +28,41 @@ div {
 }
 a {
 	text-decoration:none;
+}
+body table tr {
+	height-max: 150px;
+	height:auto;
+}
+#text_page {
+	display:inline-block;
+	text-align:left;
+}
+body div form div {
+	margin: 30px;
+}
+
+body div form #chk {
+	text-align:center;
+}
+label {
+	display:inline-block;
+	float:left;
+	width:160px;
+	font-weight:bold;
+	text-align:left;
+}
+div form div {
+	text-align:left;
+}
+#loginForm{
+	text-align:center;
+	margin: 30px auto;
+}
+#loginForm form{
+	display:inline-block;
+}
+#loginForm form label{
+	width:70px;
 }
 </style>
 <body>

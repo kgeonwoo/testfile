@@ -3,7 +3,7 @@
 	
 	<header>
 		<center>
-			<a href="login.jsp">Login</a>
-			<a href="join.jsp">Join</a>		
+			<a href="./template.jsp?page=loginForm">Login</a>
+			<a href="./template.jsp?page=member">Join</a>
 		</center>
 	</header>
